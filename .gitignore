@@ -1,0 +1,11 @@
+﻿rhuan-miguel-gamedev1/.vs
+*.vsconfig
+*.csproj
+*.slnx
+*.sln
+rhuan-miguel-gamedev1/UserSettings
+rhuan-miguel-gamedev1/Temp
+rhuan-miguel-gamedev1/obj
+rhuan-miguel-gamedev1/Logs
+rhuan-miguel-gamedev1/.vscode
+rhuan-miguel-gamedev1/Library
